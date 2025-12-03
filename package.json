@@ -9,7 +9,7 @@
     "prod": "vite preview"
   },
   "devDependencies": {
-    "@types/node": "^18.15.11",
+    "@types/node": "^20.19.25",
     "@workadventure/iframe-api-typings": "^1.15.10",
     "typescript": "^4.9.5",
     "vite": "^7.2.6",
