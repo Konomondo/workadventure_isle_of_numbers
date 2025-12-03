@@ -929,7 +929,7 @@
                  "type":"area",
                  "visible":true,
                  "width":192,
-                 "x":1103.16920842411,
+                 "x":1110.66251796916,
                  "y":257.58315177923
                 }, 
                 {
@@ -1214,7 +1214,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.6",
+ "tiledversion":"1.11.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1377,6 +1377,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.10",
  "width":80
 }
