@@ -525,24 +525,7 @@
                  "y":516.087084407431
                 }, 
                 {
-                 "height":92.6743978590545,
-                 "id":14,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":85.9090098126673,
-                 "x":354.695348593896,
-                 "y":548.565329662681
-                }, 
-                {
-                 "height":122.305084745763,
+                 "height":90.305084745763,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -569,9 +552,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":204.845673505798,
-                 "x":613.500642975441,
-                 "y":161.535069578172
+                 "width":94.845673505798,
+                 "x":92.500642975441,
+                 "y":199.535069578172
                 }, 
                 {
                  "height":31.7933014650669,
@@ -598,8 +581,8 @@
                  "type":"area",
                  "visible":true,
                  "width":56,
-                 "x":486.61625112003,
-                 "y":100.989144583877
+                 "x":466.61625112003,
+                 "y":38.989144583877
                 }, 
                 {
                  "height":69.4665477252453,
@@ -619,7 +602,7 @@
                  "y":194.077593748774
                 }, 
                 {
-                 "height":88.0498706512043,
+                 "height":87.3832039845376,
                  "id":20,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -646,26 +629,73 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":90.3054112399643,
-                 "x":735.757196253345,
-                 "y":323.147232381802
+                 "width":87.3054112399643,
+                 "x":738.757196253345,
+                 "y":323.813899048469
                 }, 
                 {
-                 "height":92.6744,
-                 "id":21,
-                 "name":"silentZone",
+                 "height":126.971666666667,
+                 "id":22,
+                 "name":"jitsiMeetingRoom",
                  "properties":[
                         {
-                         "name":"silent",
+                         "name":"focusable",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":85.909,
-                 "x":97.2774357716325,
-                 "y":194.51917823372
+                 "width":222.512666666667,
+                 "x":608.243666666667,
+                 "y":159.514166666667
+                }, 
+                {
+                 "height":90.3051,
+                 "id":23,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":94.8457,
+                 "x":351.57715,
+                 "y":546.84745
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -758,18 +788,18 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":22,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Credits: edventure Studios"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"An island for number leisure - enjoy the encounter of number manipulation and become a master"
         }, 
         {
          "name":"mapImage",
@@ -779,7 +809,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Isle of numbers"
         }, 
         {
          "name":"script",
